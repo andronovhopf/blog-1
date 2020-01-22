@@ -20,8 +20,8 @@ tags:
 
 ## Discord gems
 
-There's a lot of action in our Discord channel these days. Ruslan, one of our
-developers, said it best with a gif.
+There's a lot of action in our Discord channel these days. Ruslan, DVC's core
+maintainer, said it best with a gif.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How it feels when <a href="https://twitter.com/DVCorg?ref_src=twsrc%5Etfw">@DVCorg</a> team is handling multiple conversations on Discord at the same time. <a href="https://t.co/QrLusdWYml">https://t.co/QrLusdWYml</a></p>&mdash; 🦉 Ruslan Kuprieiev (@rkuprieiev) <a href="https://twitter.com/rkuprieiev/status/1144008869414342658?ref_src=twsrc%5Etfw">June 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
